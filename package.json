@@ -1,34 +1,34 @@
 {
-	"name": "@kamdz/module-boilerplate",
-	"version": "1.0.0",
-	"description": "Module Boilerplate",
-	"license": "MIT",
-	"repository": "kamdz/module-boilerplate",
-	"author": {
-		"name": "Kamil Dzwonkowski",
-		"email": "github@kamdz.dev",
-		"url": "https://kamdz.pl"
-	},
-	"engines": {
-		"node": ">=8"
-	},
-	"scripts": {
-		"test": "ava"
-	},
-	"files": [
-		"index.js"
-	],
-	"keywords": [
-		"npm",
-		"module",
-		"boilerplate",
-		"template"
-	],
-	"dependencies": {},
-	"devDependencies": {
-		"ava": "^2.4.0"
-	},
-	"publishConfig": {
-		"registry": "https://npm.pkg.github.com/"
-	}
+  "name": "@kamdz/module-boilerplate",
+  "version": "1.0.0",
+  "description": "Module Boilerplate",
+  "license": "MIT",
+  "repository": "kamdz/module-boilerplate",
+  "author": {
+    "name": "Kamil Dzwonkowski",
+    "email": "github@kamdz.dev",
+    "url": "https://kamdz.pl"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "npm",
+    "module",
+    "boilerplate",
+    "template"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^2.4.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
