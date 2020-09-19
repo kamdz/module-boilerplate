@@ -12,8 +12,6 @@ $ npm install @kamdz/module-boilerplate
 
 ```js
 const add = require("@kamdz/module-boilerplate");
-// or
-import add from "@kamdz/module-boilerplate";
 
 add(2, 2);
 //=> 4
